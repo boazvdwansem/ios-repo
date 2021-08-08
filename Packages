@@ -1,1 +1,14 @@
-
+Package: Moonlight
+Name: Moonlight
+Version: 1.7.3
+Architecture: iphoneos-arm
+Description: Unlocked version of Moonlight streaming service
+Maintainer: Boaz van der Wansem
+Author: 
+Section: 
+Depends: 
+Filename: moonlight
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
